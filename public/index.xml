@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Stretch</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Introduction on Stretch</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clamshell</title>
+      <link>http://localhost:1313/strengthening/clamshell/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/strengthening/clamshell/</guid>
+      <description>&lt;h2 id=&#34;clamshell&#34;&gt;&#xD;&#xA;  Clamshell&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#clamshell&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Hip abductor and external rotation strengthening exercise&lt;/p&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;&#xD;&#xA;  Description&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Loop a miniband or tie an exercise band around the thighs just above the knees. Sit down on a chair or bench with your knees bent to 90 degrees and feet planted together. Spread the band apart by pushing out with your knees and hold for up to 2 seconds before bringing the knees together again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hip Switches</title>
+      <link>http://localhost:1313/stretches/hip-switches/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stretches/hip-switches/</guid>
+      <description>&lt;h2 id=&#34;hip-switches&#34;&gt;&#xD;&#xA;  Hip Switches&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hip-switches&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Hip internal and external rotation mobility exercise.&lt;/p&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;&#xD;&#xA;  Description&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Sit on the ground with your knees bent in front of you wider than shoulder distance apart. Rotate one leg into internal rotation and the other into external rotation. Your thighs should be 90 degrees to each other, you can reposition the body to achieve this if needed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;&#xD;&#xA;  About&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Website created by to supply others with the knowledge I&amp;rsquo;ve gleaned over the years. I hope this helps!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sebastian Araneda&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
