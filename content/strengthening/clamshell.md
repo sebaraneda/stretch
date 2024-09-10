@@ -27,6 +27,8 @@ Side plank clamshell (master this move without band first, then add a resistance
 
 3. Lift the top knee slowly to perform the clamshell movement, and slowly lower it back down to the starting position.
 
+Lie on your side with your hips flexed **less than 45°** and knees bent 90°. Tilt your pelvis forward slightly, keeping your belly-button aimed at the ground in front of you. Place your resistance band just above both knees. While keeping your heels together (but not the toe region), slowly rotate the top knee upwards towards the ceiling as far as possible and agaisnt the elastic resistance. **Don't let the pelvis or trunk move** -- the only motion should be at the hip joint. Hold this position for 3 seconds while simultaneously trying to pull/draw your hip deeper into its socket. Allow your knees to come back together. Do 2-3 sets of 8-12 repetitions. Fatigue must be felt in the top of the back pockeet region of the hip/buttock.
+
 ### Picture
 
 ![Banded Clamshell](path/to/your/image.jpg)
