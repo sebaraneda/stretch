@@ -72,8 +72,8 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v4.0.2
         with:
           aws-region: ${{ vars.AWS_REGION }}
-          role-to-assume: arn:aws:iam::123456789012:role/MyHugoProject_S3Deployer
-          role-session-name: GithubActions-MyHugoProject
+          role-to-assume: arn:aws:iam::298280506103:role/stretch.aranedas.com_S3Deployer
+          role-session-name: GitHub_Actions_stretch
           mask-aws-account-id: true
       - name: Sync to S3
         id: deployment
