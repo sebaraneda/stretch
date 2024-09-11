@@ -4,6 +4,8 @@ title: 'About'
 
 ## About
 
-Website created by to supply others with the knowledge I've gleaned over the years. I hope this helps!
+This website was created to collate all the stretching and strengthening exercises I've gotten from physio.
 
-**Sebastian Araneda**
+I hope this website proves useful to you as well!
+
+**Sebastian**

@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Banded Standing March</title>
+      <link>http://localhost:1313/strengthening/standing-march/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/strengthening/standing-march/</guid>
+      <description>&lt;h2 id=&#34;banded-standing-march&#34;&gt;&#xD;&#xA;  Banded Standing March&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#banded-standing-march&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Hip flexor strengthening exercise.&lt;/p&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;&#xD;&#xA;  Description&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Start by looping a band around both of your feet as you stand. Proceed to lift one foot off of the ground and hold this position for 3-10 seconds. Lower the foot back down to a rested position and rest for an equal amount of seconds. Repeat as required.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Clamshell</title>
       <link>http://localhost:1313/strengthening/clamshell/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
@@ -23,11 +30,18 @@
       <description>&lt;h2 id=&#34;hip-switches&#34;&gt;&#xD;&#xA;  Hip Switches&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hip-switches&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Hip internal and external rotation mobility exercise.&lt;/p&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;&#xD;&#xA;  Description&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Sit on the ground with your knees bent in front of you wider than shoulder distance apart. Rotate one leg into internal rotation and the other into external rotation. Your thighs should be 90 degrees to each other, you can reposition the body to achieve this if needed.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lateral Toe Taps with Band</title>
+      <link>http://localhost:1313/strengthening/lateral-toe-taps/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/strengthening/lateral-toe-taps/</guid>
+      <description>&lt;h1 id=&#34;lateral-toe-taps-with-band&#34;&gt;&#xD;&#xA;  Lateral Toe Taps with Band&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lateral-toe-taps-with-band&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;images/lateral-toe-taps.jpg&#34; alt=&#34;Lateral Toe Taps with Band&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;The lateral toe taps exercise with a band is a great way to strengthen your lower body, particularly your glutes, hips, and thighs. This exercise targets the muscles responsible for stabilizing your hips and improving your balance.&lt;/p&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;&#xD;&#xA;  Instructions&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#instructions&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Follow these steps to perform the lateral toe taps exercise with a band:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about&#34;&gt;&#xD;&#xA;  About&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Website created by to supply others with the knowledge I&amp;rsquo;ve gleaned over the years. I hope this helps!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sebastian Araneda&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about&#34;&gt;&#xD;&#xA;  About&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This website was created to collate all the stretching and strengthening exercises I&amp;rsquo;ve gotten from physio.&lt;/p&gt;&#xA;&lt;p&gt;I hope this website proves useful to you as well!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sebastian&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
