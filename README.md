@@ -1,6 +1,8 @@
 # Stretch Project
 
-Welcome to the Stretch Project! This project aims to provide valuable information on various stretches and strengthening exercises.
+Hugo website with stretching and strengthening exercise information.
+
+Check it out live here: [stretch.aranedas.com](http://stretch.aranedas.com)
 
 ## Trello Board
 
