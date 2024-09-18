@@ -3,6 +3,7 @@ title: "Banded Standing March"
 description: "Hip flexor strengthening exercise"
 date: 2023-10-05
 categories: ["strengthening"]
+tags: ["hip", "flexor", "resistance band"]
 menu:
   main:
     parent: "strengthening"

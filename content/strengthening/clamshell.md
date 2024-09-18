@@ -3,6 +3,7 @@ title: "Clamshell"
 description: "Hip internal and external rotation mobility exercise."
 date: 2023-10-05
 categories: ["strengthening"]
+tags: ["hip", "abductor", "external rotation", "gluteus medius", "gluteus minimus", "resistance band"]
 menu:
   main:
     parent: "strengthening"

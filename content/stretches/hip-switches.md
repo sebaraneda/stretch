@@ -3,6 +3,7 @@ title: "Hip Switches"
 description: "Hip internal and external rotation mobility exercise."
 date: 2023-10-05
 categories: ["Stretches"]
+tags: ["hip", "mobility", "internal rotation", "external rotation"]
 menu:
   main:
     parent: "stretches"
